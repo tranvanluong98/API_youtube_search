@@ -1,0 +1,60 @@
+#logo {
+    height: 100px;
+}
+
+a:hover {
+    color: var(--yt-primary-text-color);
+    text-decoration: none;
+}
+
+.text-center h1 {
+    font-size: 30px;
+}
+
+.description ,title,h2 , span{
+    position: relative;
+    left: 50px;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+span{
+    color: rgb(105, 64, 199);
+}
+ span:hover{
+   cursor: pointer;
+   color: rgba(233, 6, 6, 0.877);
+}
+#submit {
+    width: 40%;
+}
+
+.result {
+    display: inline-block;
+}
+
+.result {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.result img {
+    float: left;
+    height: 160px;
+    width: 246px;
+}
+
+a {
+    font-weight: 200;
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+    color: var(--yt-primary-text-color);
+}
+
+.search-again{
+    position: relative;
+    right: -48%;
+    top: -40px;
+}
